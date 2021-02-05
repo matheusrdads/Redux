@@ -1,0 +1,29 @@
+.containerFeed {
+  background-color: white;
+  padding-top: 80px;
+}
+
+strong {
+  font-weight: 300;
+}
+
+p {
+  font-weight: 500;
+  color: rgb(12, 231, 220);
+}
+
+.imgFeed {
+  width: 180px;
+  height: 180px;
+  outline: none;
+}
+
+.imgFeed:hover {
+  width: 220px;
+  height: 220px;
+}
+
+.h3Feed {
+  color: rgb(46, 46, 46);
+  text-align: center;
+}

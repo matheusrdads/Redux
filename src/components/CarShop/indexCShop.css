@@ -1,0 +1,14 @@
+.containerCShop {
+  background-color: rgb(245, 237, 237);
+}
+
+.imgCShop {
+  width: 150px;
+  height: 150px;
+  outline: none;
+}
+
+.imgCShop:hover {
+  width: 150px;
+  height: 150px;
+}
